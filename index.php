@@ -13,6 +13,7 @@
     
 </head>
 <body>
+    <h1>This is PHP Crud</h1>
     <table cellspacing="7px" id="mytable"><?php
         include "connection.php";
         $sql="Select * FROM studata";
